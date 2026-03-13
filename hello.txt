@@ -2,3 +2,4 @@ Hello Git
 This is my first Git project
 Learning Git step by step
 GitHub practice commit
+This line was added in feature1 branch
